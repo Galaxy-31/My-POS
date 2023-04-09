@@ -18,6 +18,8 @@ Projek ini dibuat menggunakan
 - Data Table
 - Sistem Keranjang
 
+## Template 
+-Argon Dashboard
 ## Akun
 
 Untuk akun bawaan dari seeder ada:
